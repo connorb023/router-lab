@@ -4,7 +4,7 @@ import Home from './Home';
 import Dashboard from './Dashboard';
 import About from './About';
 import Stock from './Stock';
-import stockData from '../data.json';
+import stockData from './data.json';
 
 function Main(props) {
   return (
